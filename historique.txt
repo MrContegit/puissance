@@ -1,0 +1,815 @@
+Joueur 1 est Humain:LUCRECE
+Joueur 2 est Humain: GERALD
+LUCRECE joue 3
+GERALD joue 1
+LUCRECE joue 4
+GERALD joue 1
+LUCRECE joue 4
+GERALD joue 4
+LUCRECE joue 3
+GERALD joue 3
+LUCRECE joue 5
+GERALD joue 6
+LUCRECE joue 5
+GERALD joue 6
+LUCRECE joue 2
+ 
+LUCRECE gagne
+
+ Score 1-0LUCRECE joue 4
+GERALD joue 4
+LUCRECE joue 3
+GERALD joue 2
+LUCRECE joue 5
+GERALD joue 6
+LUCRECE joue 3
+GERALD joue 6
+LUCRECE joue 3
+GERALD joue 3
+LUCRECE joue 2
+GERALD joue 7
+LUCRECE joue 2
+GERALD joue 5
+LUCRECE joue 7
+GERALD joue 5
+LUCRECE joue 4
+GERALD joue 4
+ 
+GERALD gagne
+
+ Score 1-1LUCRECE joue 5
+GERALD joue 1
+LUCRECE joue 6
+GERALD joue 7
+LUCRECE joue 4
+GERALD joue 3
+LUCRECE joue 6
+GERALD joue 3
+LUCRECE joue 6
+GERALD joue 6
+LUCRECE joue 5
+GERALD joue 4
+LUCRECE joue 5
+GERALD joue 5
+LUCRECE joue 4
+GERALD joue 2
+LUCRECE joue 3
+ 
+LUCRECE gagne
+
+ Score 2-1LUCRECE joue 3
+GERALD joue 7
+LUCRECE joue 6
+GERALD joue 7
+LUCRECE joue 5
+GERALD joue 4
+LUCRECE joue 6
+GERALD joue 7
+LUCRECE joue 7
+GERALD joue 5
+LUCRECE joue 6
+GERALD joue 6
+LUCRECE joue 2
+GERALD joue 4
+LUCRECE joue 3
+GERALD joue 5
+LUCRECE joue 3
+GERALD joue 7
+ 
+GERALD gagne
+
+ Score 2-2LUCRECE joue 5
+GERALD joue 1
+LUCRECE joue 4
+GERALD joue 1
+LUCRECE joue 3
+GERALD joue 2
+LUCRECE joue 1
+GERALD joue 6
+LUCRECE joue 2
+GERALD joue 2
+LUCRECE joue 4
+GERALD joue 3
+LUCRECE joue 4
+GERALD joue 4
+LUCRECE joue 6
+GERALD joue 3
+LUCRECE joue 5
+GERALD joue 3
+LUCRECE joue 7
+GERALD joue 4
+ 
+GERALD gagne
+
+ Score 2-3Joueur 1 est Humain:LUCRECE
+Joueur 2 est Humain: GERALD
+LUCRECE joue 3
+GERALD joue 1
+LUCRECE joue 4
+GERALD joue 1
+LUCRECE joue 4
+GERALD joue 4
+LUCRECE joue 3
+GERALD joue 3
+LUCRECE joue 5
+GERALD joue 6
+LUCRECE joue 5
+GERALD joue 6
+LUCRECE joue 2
+ 
+LUCRECE gagne
+
+ Score 1-0LUCRECE joue 4
+GERALD joue 4
+LUCRECE joue 3
+GERALD joue 2
+LUCRECE joue 5
+GERALD joue 6
+LUCRECE joue 3
+GERALD joue 6
+LUCRECE joue 3
+GERALD joue 3
+LUCRECE joue 2
+GERALD joue 7
+LUCRECE joue 2
+GERALD joue 5
+LUCRECE joue 7
+GERALD joue 5
+LUCRECE joue 4
+GERALD joue 4
+ 
+GERALD gagne
+
+ Score 1-1LUCRECE joue 5
+GERALD joue 1
+LUCRECE joue 6
+GERALD joue 7
+LUCRECE joue 4
+GERALD joue 3
+LUCRECE joue 6
+GERALD joue 3
+LUCRECE joue 6
+GERALD joue 6
+LUCRECE joue 5
+GERALD joue 4
+LUCRECE joue 5
+GERALD joue 5
+LUCRECE joue 4
+GERALD joue 2
+LUCRECE joue 3
+ 
+LUCRECE gagne
+
+ Score 2-1LUCRECE joue 3
+GERALD joue 7
+LUCRECE joue 6
+GERALD joue 7
+LUCRECE joue 5
+GERALD joue 4
+LUCRECE joue 6
+GERALD joue 7
+LUCRECE joue 7
+GERALD joue 5
+LUCRECE joue 6
+GERALD joue 6
+LUCRECE joue 2
+GERALD joue 4
+LUCRECE joue 3
+GERALD joue 5
+LUCRECE joue 3
+GERALD joue 7
+ 
+GERALD gagne
+
+ Score 2-2LUCRECE joue 5
+GERALD joue 1
+LUCRECE joue 4
+GERALD joue 1
+LUCRECE joue 3
+GERALD joue 2
+LUCRECE joue 1
+GERALD joue 6
+LUCRECE joue 2
+GERALD joue 2
+LUCRECE joue 4
+GERALD joue 3
+LUCRECE joue 4
+GERALD joue 4
+LUCRECE joue 6
+GERALD joue 3
+LUCRECE joue 5
+GERALD joue 3
+LUCRECE joue 7
+GERALD joue 4
+ 
+GERALD gagne
+
+ Score 2-3Joueur 1 est Humain:LUCRECE
+Joueur 2 est Humain: GERALD
+LUCRECE joue 3
+GERALD joue 1
+LUCRECE joue 4
+GERALD joue 1
+LUCRECE joue 4
+GERALD joue 4
+LUCRECE joue 3
+GERALD joue 3
+LUCRECE joue 5
+GERALD joue 6
+LUCRECE joue 5
+GERALD joue 6
+LUCRECE joue 2
+ 
+LUCRECE gagne
+
+ Score 1-0LUCRECE joue 4
+GERALD joue 4
+LUCRECE joue 3
+GERALD joue 2
+LUCRECE joue 5
+GERALD joue 6
+LUCRECE joue 3
+GERALD joue 6
+LUCRECE joue 3
+GERALD joue 3
+LUCRECE joue 2
+GERALD joue 7
+LUCRECE joue 2
+GERALD joue 5
+LUCRECE joue 7
+GERALD joue 5
+LUCRECE joue 4
+GERALD joue 4
+ 
+GERALD gagne
+
+ Score 1-1LUCRECE joue 5
+GERALD joue 1
+LUCRECE joue 6
+GERALD joue 7
+LUCRECE joue 4
+GERALD joue 3
+LUCRECE joue 6
+GERALD joue 3
+LUCRECE joue 6
+GERALD joue 6
+LUCRECE joue 5
+GERALD joue 4
+LUCRECE joue 5
+GERALD joue 5
+LUCRECE joue 4
+GERALD joue 2
+LUCRECE joue 3
+ 
+LUCRECE gagne
+
+ Score 2-1LUCRECE joue 3
+GERALD joue 7
+LUCRECE joue 6
+GERALD joue 7
+LUCRECE joue 5
+GERALD joue 4
+LUCRECE joue 6
+GERALD joue 7
+LUCRECE joue 7
+GERALD joue 5
+LUCRECE joue 6
+GERALD joue 6
+LUCRECE joue 2
+GERALD joue 4
+LUCRECE joue 3
+GERALD joue 5
+LUCRECE joue 3
+GERALD joue 7
+ 
+GERALD gagne
+
+ Score 2-2LUCRECE joue 5
+GERALD joue 1
+LUCRECE joue 4
+GERALD joue 1
+LUCRECE joue 3
+GERALD joue 2
+LUCRECE joue 1
+GERALD joue 6
+LUCRECE joue 2
+GERALD joue 2
+LUCRECE joue 4
+GERALD joue 3
+LUCRECE joue 4
+GERALD joue 4
+LUCRECE joue 6
+GERALD joue 3
+LUCRECE joue 5
+GERALD joue 3
+LUCRECE joue 7
+GERALD joue 4
+ 
+GERALD gagne
+
+ Score 2-3Joueur 1 est Humain:A
+Joueur 2 est Humain: Z
+A joue 1
+Z joue 2
+A joue 1
+Z joue 2
+A joue 2
+Z joue 1
+A joue 3
+Z joue 4
+A joue 3
+Z joue 5
+A joue 3
+Z joue 6
+A joue 4
+Z joue 7
+ 
+Z gagne
+
+ Score 0-1
+A joue 1
+Z joue 2
+A joue 1
+Z joue 2
+A joue 1
+Z joue 2
+A joue 3
+Z joue 2
+ 
+Z gagne
+
+ Score 0-2
+A joue 1
+Z joue 2
+A joue 1
+Z joue 2
+A joue 1
+Z joue 2
+A joue 3
+Z joue 2
+ 
+Z gagne
+
+ Score 0-3
+Joueur 1 est Humain:A
+Joueur 2 est Humain: Z
+A joue 1
+Z joue 2
+A joue 1
+Z joue 2
+A joue 2
+Z joue 1
+A joue 3
+Z joue 4
+A joue 3
+Z joue 5
+A joue 3
+Z joue 6
+A joue 4
+Z joue 7
+ 
+Z gagne
+
+ Score 0-1
+A joue 1
+Z joue 2
+A joue 1
+Z joue 2
+A joue 1
+Z joue 2
+A joue 3
+Z joue 2
+ 
+Z gagne
+
+ Score 0-2
+A joue 1
+Z joue 2
+A joue 1
+Z joue 2
+A joue 1
+Z joue 2
+A joue 3
+Z joue 2
+ 
+Z gagne
+
+ Score 0-3
+Joueur 1 est Humain:A
+Joueur 2 est Humain: Z
+A joue 1
+Z joue 2
+A joue 1
+Z joue 2
+A joue 2
+Z joue 1
+A joue 3
+Z joue 4
+A joue 3
+Z joue 5
+A joue 3
+Z joue 6
+A joue 4
+Z joue 7
+ 
+Z gagne
+
+ Score 0-1
+A joue 1
+Z joue 2
+A joue 1
+Z joue 2
+A joue 1
+Z joue 2
+A joue 3
+Z joue 2
+ 
+Z gagne
+
+ Score 0-2
+A joue 1
+Z joue 2
+A joue 1
+Z joue 2
+A joue 1
+Z joue 2
+A joue 3
+Z joue 2
+ 
+Z gagne
+
+ Score 0-3
+Joueur 1 est Humain:A
+Joueur 2 est Humain: Z
+A joue 1
+Z joue 2
+A joue 1
+Z joue 2
+A joue 2
+Z joue 1
+A joue 3
+Z joue 4
+A joue 3
+Z joue 5
+A joue 3
+Z joue 6
+A joue 4
+Z joue 7
+ 
+Z gagne
+
+ Score 0-1
+A joue 1
+Z joue 2
+A joue 1
+Z joue 2
+A joue 1
+Z joue 2
+A joue 3
+Z joue 2
+ 
+Z gagne
+
+ Score 0-2
+A joue 1
+Z joue 2
+A joue 1
+Z joue 2
+A joue 1
+Z joue 2
+A joue 3
+Z joue 2
+ 
+Z gagne
+
+ Score 0-3
+Joueur 1 est Humain:A
+Joueur 2 est Humain: Z
+A joue 1
+Z joue 2
+A joue 1
+Z joue 2
+A joue 1
+Z joue 2
+A joue 3
+Z joue 2
+ 
+Z gagne
+
+ Score 0-1
+A joue 1
+Z joue 2
+A joue 1
+Z joue 2
+A joue 1
+Z joue 2
+A joue 3
+Z joue 2
+ 
+Z gagne
+
+ Score 0-2
+A joue 1
+Z joue 2
+A joue 1
+Z joue 2
+A joue 1
+Z joue 2
+A joue 3
+Z joue 2
+ 
+Z gagne
+
+ Score 0-3
+Joueur 1 est Humain:A
+Joueur 2 est Humain: Z
+A joue 1
+Z joue 2
+A joue 1
+Z joue 2
+A joue 1
+Z joue 2
+A joue 1
+ 
+A gagne
+
+ Score 1-0
+A joue 1
+Z joue 2
+A joue 1
+Z joue 2
+A joue 1
+Z joue 2
+A joue 3
+Z joue 2
+ 
+Z gagne
+
+ Score 1-1
+A joue 1
+Z joue 2
+A joue 1
+Z joue 2
+A joue 1
+Z joue 2
+A joue 3
+Z joue 2
+ 
+Z gagne
+
+ Score 1-2
+A joue 1
+Z joue 2
+A joue 1
+Z joue 2
+A joue 1
+Z joue 2
+A joue 3
+Z joue 2
+ 
+Z gagne
+
+ Score 1-3
+Joueur 1 est Humain:A
+Joueur 2 est Humain: Z
+A joue 1
+Z joue 2
+A joue 1
+Z joue 2
+A joue 1
+Z joue 2
+A joue 1
+ 
+A gagne
+
+ Score 1-0
+A joue 1
+Z joue 2
+A joue 1
+Z joue 2
+A joue 1
+Z joue 2
+A joue 3
+Z joue 2
+ 
+Z gagne
+
+ Score 1-1
+A joue 1
+Z joue 2
+A joue 1
+Z joue 2
+A joue 1
+Z joue 2
+A joue 3
+Z joue 2
+ 
+Z gagne
+
+ Score 1-2
+A joue 1
+Z joue 2
+A joue 1
+Z joue 2
+A joue 1
+Z joue 2
+A joue 3
+Z joue 2
+ 
+Z gagne
+
+ Score 1-3
+Nouvelle partieJoueur 1 est Humain:A
+Joueur 2 est Humain: Z
+A joue 1
+Z joue 2
+A joue 1
+Z joue 2
+A joue 1
+Z joue 2
+A joue 3
+Z joue 2
+ 
+Z gagne
+
+ Score 0-1
+A joue 1
+Z joue 2
+A joue 1
+Z joue 2
+A joue 1
+Z joue 2
+A joue 3
+Z joue 2
+ 
+Z gagne
+
+ Score 0-2
+A joue 1
+Z joue 2
+A joue 1
+Z joue 2
+A joue 1
+Z joue 2
+A joue 1
+ 
+A gagne
+
+ Score 1-2
+A joue 1
+Z joue 2
+A joue 1
+Z joue 2
+A joue 1
+Z joue 2
+A joue 3
+Z joue 2
+ 
+Z gagne
+
+ Score 1-3
+Joueur 1 est Humain:A
+Joueur 2 est Humain: Z
+A joue 4
+Z joue 3
+A joue 4
+Z joue 3
+A joue 4
+Z joue 3
+A joue 4
+ 
+A gagne
+
+ Score 1-0
+A joue 1
+Z joue 2
+A joue 1
+Z joue 2
+A joue 1
+Z joue 2
+A joue 1
+ 
+A gagne
+
+ Score 2-0
+A joue 2
+Z joue 1
+A joue 2
+Z joue 1
+A joue 2
+Z joue 1
+A joue 2
+ 
+A gagne
+
+ Score 3-0
+Joueur 1 est Humain:A
+Joueur 2 est Humain: Z
+Manche commenceA joue 3
+ordinateur joue 0
+A joue 4
+ordinateur joue 0
+A joue 3
+ordinateur joue 0
+A joue 4
+ordinateur joue 0
+A joue 4
+ordinateur joue 0
+A joue 5
+ordinateur joue 0
+A joue 5
+ordinateur joue 0
+ 
+ordinateur gagne
+
+ Score 0-1
+A joue 3
+ordinateur joue 0
+A joue 2
+ordinateur joue 0
+A joue 4
+ordinateur joue 0
+A joue 6
+ordinateur joue 0
+A joue 6
+ordinateur joue 0
+A joue 4
+ordinateur joue 0
+A joue 4
+ordinateur joue 0
+A joue 5
+ordinateur joue 0
+A joue 5
+ordinateur joue 0
+A joue 2
+ordinateur joue 0
+A joue 2
+ordinateur joue 0
+A joue 3
+ 
+A gagne
+
+ Score 1-1
+A joue 3
+ordinateur joue 0
+A joue 4
+ordinateur joue 0
+A joue 5
+ordinateur joue 0
+A joue 6
+ordinateur joue 0
+A joue 3
+ordinateur joue 0
+A joue 4
+ordinateur joue 0
+A joue 5
+ordinateur joue 0
+A joue 6
+ordinateur joue 0
+A joue 6
+ordinateur joue 0
+A joue 7
+ordinateur joue 0
+A joue 7
+ordinateur joue 0
+A joue 7
+ordinateur joue 0
+A joue 2
+ordinateur joue 0
+A joue 2
+ordinateur joue 0
+A joue 2
+ordinateur joue 0
+A joue 5
+ 
+A gagne
+
+ Score 2-1
+A joue 6
+ordinateur joue 0
+A joue 5
+ordinateur joue 0
+A joue 4
+ordinateur joue 0
+A joue 3
+ordinateur joue 0
+A joue 2
+ordinateur joue 0
+A joue 3
+ordinateur joue 0
+A joue 6
+ordinateur joue 0
+A joue 7
+ordinateur joue 0
+A joue 7
+ordinateur joue 0
+ordinateur joue 0
+A joue 3
+ordinateur joue 0
+A joue 4
+ordinateur joue 0
+A joue 5
+ 
+A gagne
+
+ Score 3-1
